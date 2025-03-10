@@ -17,7 +17,10 @@ language:Python
 
 Architecture: MAS
 
-Data Processing & Storage:** BigQuery, Pandas, NumPy**
+Data Processing & Storage:**BigQuery, Pandas, NumPy**
+
+![image](https://github.com/user-attachments/assets/e3e531f6-df9e-479c-aac8-2dac8673b1f7)
+
 
 
 Computing Environment: Jupyter Notebook (All of Us Workbench)
