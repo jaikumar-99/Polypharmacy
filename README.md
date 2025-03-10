@@ -47,6 +47,15 @@ Kept the most recent valid prescription record per patient.
 Applied IQR filtering to remove extreme dosage values.
 Cross-validated drug dosages with standard clinical dosage guidelines.
 
+**Machine Learning Algorithms Used**
+**Logistic Regression**: Baseline classification model for risk prediction.
+**Random Forest Classifier**: Used for initial feature selection and importance ranking.
+**XGBoost**: Optimized gradient boosting model for improved prediction accuracy.
+**Neural Networks** (TensorFlow/Keras): Tested deep learning models for multi-drug interaction predictions.
+**K-Means Clustering**: Identified patient subgroups based on prescription patterns and risk profiles.
+**SHAP (SHapley Additive exPlanations)**: Used for model explainability and feature impact analysis.
+**Principal Component Analysis (PCA)**: Dimensionality reduction to improve computational efficiency.
+
 **Key Innovation**
 AI-Powered Polypharmacy Risk Model:
 Used ML models to detect adverse drug-drug interactions.
