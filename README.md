@@ -12,6 +12,7 @@ Key Fields & Features
 ![image](https://github.com/user-attachments/assets/4341c0c7-385a-4d9c-aecd-3b340cbc706d)
 
 **Technologies Used**
+
 language:Python
 
 Architecture: MAS
@@ -45,7 +46,7 @@ Cross-validated drug dosages with standard clinical dosage guidelines.
 
 **Key Innovation**
 AI-Powered Polypharmacy Risk Model:
-Used multi-agent AI models to detect adverse drug-drug interactions.
+Used ML models to detect adverse drug-drug interactions.
 Integrated SHAP-based explainability to identify high-risk drug combinations.
 Developed a Personalized Polypharmacy Risk Score, providing individualized risk assessments for each patient.
 
