@@ -12,20 +12,20 @@ Key Fields & Features
 ![image](https://github.com/user-attachments/assets/4341c0c7-385a-4d9c-aecd-3b340cbc706d)
 
 **Technologies Used**
-Data Processing & Storage: BigQuery, Pandas, NumPy
+Data Processing & Storage:** BigQuery, Pandas, NumPy**
 Computing Environment: Jupyter Notebook (All of Us Workbench)
-Machine Learning: Scikit-learn, XGBoost, TensorFlow
-Feature Engineering & Analysis: SHAP (Explainable AI), PCA, One-Hot Encoding
-Visualization: Matplotlib, Seaborn
+Machine Learning: **Scikit-learn, XGBoost, TensorFlow**
+Feature Engineering & Analysis: **SHAP (Explainable AI), PCA, One-Hot Encoding**
+Visualization: **Matplotlib, Seaborn**
 Security & Compliance: HIPAA-compliant environment, All of Us Workbench
-Data Cleaning & Processing
-Missing Value Handling:
+**Data Cleaning & Processing
+Missing Value Handling:**
 Used median imputation for missing drug dosage values.
 Dropped records with excessive missingness.
-Duplicate Handling:
+**Duplicate Handling:**
 Removed duplicate prescriptions for the same drug and patient.
 Kept the most recent valid prescription record per patient.
-Outlier Detection & Removal:
+**Outlier Detection & Removal:**
 Applied IQR filtering to remove extreme dosage values.
 Cross-validated drug dosages with standard clinical dosage guidelines.
 **Key Innovation**
